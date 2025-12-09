@@ -17,7 +17,7 @@ database_file_path: ./matcha.db
 openai_api_key:
 openai_base_url:
 openai_model: gpt-4o-mini
-summary_prompt: Provide a concise summary in Vietnamese using no more than 3 sentences. Apply Trunk's style guide principles for clear and effective writing.
+summary_prompt: Provide a concise summary in Vietnamese using no more than 3 sentences. Apply Trunk's style guide principles for clear and effective writing. Keep IT terms in English.
 summary_feeds:
   - http://hnrss.org/best 10
   - https://simonwillison.net/atom/everything/
