@@ -1,0 +1,31 @@
+markdown_dir_path: .
+feeds:
+  - https://www.opensourceprojects.dev/feed.xml
+  - https://bigtechdigest.substack.com/feed
+  - https://dev.to/feed
+google_news_keywords:
+instapaper: false
+weather_latitude:
+weather_longitude:
+terminal_mode: false
+opml_file_path:
+markdown_file_prefix:
+markdown_file_suffix:
+reading_time: false
+sunrise_sunset: false
+openai_api_key:
+openai_base_url:
+openai_model: gpt-4o-mini
+summary_prompt: Provide a concise summary in Vietnamese using no more than 3 sentences. Apply Trunk's style guide principles for clear and effective writing.
+summary_feeds:
+  - http://hnrss.org/best 10
+  - https://simonwillison.net/atom/everything/
+  - https://newsletter.techworld-with-milan.com/feed
+  - https://strategizeyourcareer.com/feed
+  - https://newsletter.pragmaticengineer.com/feed
+  - https://tidyfirst.substack.com/feed
+  - https://martinfowler.com/feed.atom
+  - https://grocto.substack.com/feed
+  - https://newsletter.betterstack.com/feed
+  - https://betterengineers.substack.com/feed
+  - https://waitbutwhy.com/feed
