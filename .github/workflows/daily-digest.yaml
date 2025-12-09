@@ -1,0 +1,51 @@
+name: Daily Digest Generator
+
+on:
+  schedule:
+    # Run daily at 7:00 AM UTC+7 (midnight UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Install matcha
+        run: go install github.com/piqoni/matcha@latest
+
+      - name: Generate daily digest
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          # Inject OpenAI API key from secrets into config
+          sed -i "s|openai_api_key:.*|openai_api_key: $OPENAI_API_KEY|" config.yaml
+          
+          # Run matcha with updated config
+          matcha -c config.yaml
+        
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Add generated markdown files
+          git add *.md
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: generate daily digest for $(date +'%Y-%m-%d')"
+            git push
+          fi
