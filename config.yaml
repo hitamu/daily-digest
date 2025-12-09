@@ -13,6 +13,7 @@ markdown_file_prefix:
 markdown_file_suffix:
 reading_time: false
 sunrise_sunset: false
+database_file_path: ./matcha.db
 openai_api_key:
 openai_base_url:
 openai_model: gpt-4o-mini
