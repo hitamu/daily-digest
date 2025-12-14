@@ -1,6 +1,7 @@
 markdown_dir_path: .
 feeds:
   - https://www.opensourceprojects.dev/feed.xml
+  - http://hnrss.org/best 10
   - https://bigtechdigest.substack.com/feed
   - https://dev.to/feed
 google_news_keywords:
@@ -34,5 +35,4 @@ summary_feeds:
   - https://www.developing.dev/feed
   - https://newsletter.betterstack.com/feed
   - https://betterengineers.substack.com/feed
-  - http://hnrss.org/best 10
   - https://waitbutwhy.com/feed
