@@ -23,6 +23,7 @@ summary_prompt: |
 summary_feeds:
   - https://simonwillison.net/atom/everything/
   - https://www.yegor256.com/rss.xml
+  - https://newsletter.eng-leadership.com/feed
   - https://newsletter.techworld-with-milan.com/feed
   - https://strategizeyourcareer.com/feed
   - https://newsletter.pragmaticengineer.com/feed
