@@ -24,6 +24,7 @@ summary_prompt: |
 summary_feeds:
   - https://simonwillison.net/atom/everything/
   - https://www.yegor256.com/rss.xml
+  - https://blog.staysaasy.com/feed
   - https://newsletter.eng-leadership.com/feed
   - https://newsletter.techworld-with-milan.com/feed
   - https://strategizeyourcareer.com/feed
@@ -31,6 +32,7 @@ summary_feeds:
   - https://newsletter.manager.dev/feed
   - https://tidyfirst.substack.com/feed
   - https://martinfowler.com/feed.atom
+  - https://www.ctologic.pro/feed
   - https://grocto.substack.com/feed
   - https://www.developing.dev/feed
   - https://newsletter.betterstack.com/feed
