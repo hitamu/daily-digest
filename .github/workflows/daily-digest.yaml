@@ -24,7 +24,9 @@ jobs:
           go-version: '1.21'
 
       - name: Install matcha
-        run: go install github.com/hitamu/matcha@main
+        run: |
+          go clean -modcache
+          go install github.com/hitamu/matcha@main
 
       - name: Generate daily digest
         env:
