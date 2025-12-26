@@ -24,7 +24,7 @@ jobs:
           go-version: '1.21'
 
       - name: Install matcha
-        run: go install github.com/piqoni/matcha@latest
+        run: go install github.com/hitamu/matcha@latest
 
       - name: Generate daily digest
         env:
