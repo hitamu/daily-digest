@@ -4,6 +4,7 @@ feeds:
   - http://hnrss.org/best 10
   - https://bigtechdigest.substack.com/feed
   - https://dev.to/feed
+  - https://newsletter.grokking.org/feed
 google_news_keywords:
 instapaper: false
 weather_latitude:
