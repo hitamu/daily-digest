@@ -40,3 +40,8 @@ summary_feeds:
   - https://betterengineers.substack.com/feed
   - https://waitbutwhy.com/feed
   - https://kimmalonescott.medium.com/feed
+analyst_feeds:
+  - https://hnrss.org/launches 10
+analyst_prompt: |
+  Do suggest ideas for similar product, so I can build it myself. Give me few ideá, one per line.
+
