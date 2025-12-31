@@ -1,8 +1,8 @@
 markdown_dir_path: .
 feeds:
   - https://www.opensourceprojects.dev/feed.xml
+  - https://hnrss.org/launches 10
   - http://hnrss.org/best 10
-  - https://bigtechdigest.substack.com/feed
   - https://dev.to/feed
   - https://newsletter.grokking.org/feed
 google_news_keywords:
@@ -39,9 +39,4 @@ summary_feeds:
   - https://betterengineers.substack.com/feed
   - https://waitbutwhy.com/feed
   - https://kimmalonescott.medium.com/feed
-analyst_feeds:
-  - https://hnrss.org/launches 10
-analyst_prompt: |
-  Do suggest ideas for similar product, so I can build it myself. Give me few ideas, one per line.
-analyst_model: gpt-4o-mini
 
