@@ -1,5 +1,9 @@
 markdown_dir_path: .
 feeds:
+  - https://www.opensourceprojects.dev/feed.xml
+  - https://dev.to/feed
+  - https://hnrss.org/launches 10
+  - http://hnrss.org/best 10
 google_news_keywords:
 instapaper: false
 weather_latitude:
@@ -34,9 +38,5 @@ summary_feeds:
   - https://betterengineers.substack.com/feed
   - https://waitbutwhy.com/feed
   - https://kimmalonescott.medium.com/feed
-  - https://www.opensourceprojects.dev/feed.xml
-  - https://hnrss.org/launches 10
-  - http://hnrss.org/best 10
-  - https://dev.to/feed
   - https://newsletter.grokking.org/feed
 
