@@ -46,7 +46,6 @@ summary_feeds:
   - https://daringfireball.net/feeds/main
   - https://ericmigi.com/rss.xml
   - http://antirez.com/rss
-  - https://idiallo.com/feed.rss
   - https://maurycyz.com/index.xml
   - https://pluralistic.net/feed/
   - https://shkspr.mobi/blog/feed/
@@ -70,7 +69,6 @@ summary_feeds:
   - https://evanhahn.com/feed.xml
   - https://terriblesoftware.org/feed/
   - https://rakhim.exotext.com/rss.xml
-  - https://joanwestenberg.com/rss
   - https://xania.org/feed
   - https://micahflee.com/feed/
   - https://nesbitt.io/feed.xml
@@ -88,7 +86,6 @@ summary_feeds:
   - http://www.aaronsw.com/2002/feeds/pgessays.rss
   - https://www.filfre.net/feed/
   - https://blog.jim-nielsen.com/feed.xml
-  - https://dfarq.homeip.net/feed/
   - https://jyn.dev/atom.xml
   - https://www.geoffreylitt.com/feed.xml
   - https://www.downtowndougbrown.com/feed/
