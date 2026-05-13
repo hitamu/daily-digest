@@ -62,7 +62,6 @@ summary_feeds:
   - https://rachelbythebay.com/w/atom.xml
   - https://overreacted.io/rss.xml
   - https://timsh.org/rss/
-  - https://www.johndcook.com/blog/feed/
   - https://gilesthomas.com/feed/rss.xml
   - https://matklad.github.io/feed.xml
   - https://www.theatlantic.com/feed/author/derek-thompson/
@@ -75,7 +74,6 @@ summary_feeds:
   - https://www.construction-physics.com/feed
   - https://feed.tedium.co/
   - https://susam.net/feed.xml
-  - https://entropicthoughts.com/feed.xml
   - https://buttondown.com/hillelwayne/rss
   - https://www.dwarkeshpatel.com/feed
   - https://borretti.me/feed.xml
@@ -119,7 +117,6 @@ summary_feeds:
   - https://danielchasehooper.com/feed.xml
   - https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/feed.xml
   - https://grantslatton.com/rss.xml
-  - https://www.experimental-history.com/feed
   - https://anildash.com/feed.xml
   - https://aresluna.org/main.rss
   - https://michael.stapelberg.ch/feed.xml
@@ -128,4 +125,12 @@ summary_feeds:
   - https://mjg59.dreamwidth.org/data/rss
   - https://computer.rip/rss.xml
   - https://www.tedunangst.com/flak/rss
+  - https://www.latent.space/feed
+  - https://www.interconnects.ai/feed
+  - https://aiweekly.co/issues.rss
+  - https://huyenchip.com/feed.xml
+  - https://openai.com/blog/rss.xml
+  - https://lobste.rs/rss
+  - https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml
+
 
