@@ -3,7 +3,6 @@ feeds:
   - https://www.opensourceprojects.dev/feed.xml
   - https://dev.to/feed
   - http://hnrss.org/best 30
-  - https://hnrss.org/bestcomments 10
 google_news_keywords:
 instapaper: false
 weather_latitude:
@@ -30,13 +29,10 @@ summary_feeds:
   - https://strategizeyourcareer.com/feed
   - https://newsletter.pragmaticengineer.com/feed
   - https://newsletter.manager.dev/feed
-  - https://tidyfirst.substack.com/feed
   - https://martinfowler.com/feed.atom
   - https://www.ctologic.pro/feed
-  - https://grocto.substack.com/feed
   - https://www.developing.dev/feed
   - https://newsletter.betterstack.com/feed
-  - https://betterengineers.substack.com/feed
   - https://waitbutwhy.com/feed
   - https://kimmalonescott.medium.com/feed
   - https://newsletter.grokking.org/feed
@@ -49,7 +45,6 @@ summary_feeds:
   - https://maurycyz.com/index.xml
   - https://pluralistic.net/feed/
   - https://shkspr.mobi/blog/feed/
-  - https://lcamtuf.substack.com/feed
   - https://mitchellh.com/feed.xml
   - https://dynomight.net/feed.xml
   - https://utcc.utoronto.ca/~cks/space/blog/?atom
@@ -58,8 +53,6 @@ summary_feeds:
   - https://www.righto.com/feeds/posts/default
   - https://lucumr.pocoo.org/feed.atom
   - https://skyfall.dev/rss.xml
-  - https://garymarcus.substack.com/feed
-  - https://rachelbythebay.com/w/atom.xml
   - https://overreacted.io/rss.xml
   - https://timsh.org/rss/
   - https://gilesthomas.com/feed/rss.xml
@@ -94,7 +87,6 @@ summary_feeds:
   - https://oldvcr.blogspot.com/feeds/posts/default
   - https://bogdanthegeek.github.io/blog/index.xml
   - https://hugotunius.se/feed.xml
-  - https://gwern.substack.com/feed
   - https://berthub.eu/articles/index.xml
   - https://chadnauseam.com/rss.xml
   - https://simone.org/feed/
@@ -104,7 +96,6 @@ summary_feeds:
   - https://danielwirtz.com/rss.xml
   - https://matduggan.com/rss/
   - https://refactoringenglish.com/index.xml
-  - https://worksonmymachine.substack.com/feed
   - https://philiplaine.com/index.xml
   - https://steveblank.com/feed/
   - https://bernsteinbear.com/feed.xml
@@ -112,10 +103,8 @@ summary_feeds:
   - https://www.troyhunt.com/rss/
   - https://herman.bearblog.dev/feed/
   - https://tomrenner.com/index.xml
-  - https://blog.pixelmelt.dev/rss/
   - https://martinalderson.com/feed.xml
   - https://danielchasehooper.com/feed.xml
-  - https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/feed.xml
   - https://grantslatton.com/rss.xml
   - https://anildash.com/feed.xml
   - https://aresluna.org/main.rss
@@ -124,7 +113,6 @@ summary_feeds:
   - https://keygen.sh/blog/feed.xml
   - https://mjg59.dreamwidth.org/data/rss
   - https://computer.rip/rss.xml
-  - https://www.tedunangst.com/flak/rss
   - https://www.latent.space/feed
   - https://www.interconnects.ai/feed
   - https://aiweekly.co/issues.rss
@@ -132,16 +120,4 @@ summary_feeds:
   - https://openai.com/blog/rss.xml
   - https://lobste.rs/rss
   - https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml
-  - https://www.reddit.com/r/SaaS/hot/.rss
-  - https://www.reddit.com/r/buildinpublic/hot/.rss
-  - https://www.reddit.com/r/GithubCopilot/hot/.rss
-  - https://www.reddit.com/r/ChatGPT/hot/.rss
-  - https://www.reddit.com/r/cursor/hot/.rss
-  - https://www.reddit.com/r/mcp/hot/.rss
-  - https://www.reddit.com/r/indiehackers/hot/.rss
-  - https://www.reddit.com/r/ExperiencedDevs/hot/.rss
-  - https://www.reddit.com/r/ClaudeCode/hot/.rss
   - https://www.reddit.com/r/webdev/hot/.rss
-  
-
-
