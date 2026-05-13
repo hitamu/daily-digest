@@ -132,5 +132,16 @@ summary_feeds:
   - https://openai.com/blog/rss.xml
   - https://lobste.rs/rss
   - https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml
+  - https://www.reddit.com/r/SaaS/hot/.rss
+  - https://www.reddit.com/r/buildinpublic/hot/.rss
+  - https://www.reddit.com/r/GithubCopilot/hot/.rss
+  - https://www.reddit.com/r/ChatGPT/hot/.rss
+  - https://www.reddit.com/r/cursor/hot/.rss
+  - https://www.reddit.com/r/mcp/hot/.rss
+  - https://www.reddit.com/r/indiehackers/hot/.rss
+  - https://www.reddit.com/r/ExperiencedDevs/hot/.rss
+  - https://www.reddit.com/r/ClaudeCode/hot/.rss
+  - https://www.reddit.com/r/webdev/hot/.rss
+  
 
 
