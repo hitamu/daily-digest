@@ -3,6 +3,16 @@ feeds:
   - https://www.opensourceprojects.dev/feed.xml
   - https://dev.to/feed
   - http://hnrss.org/best 30
+  - https://www.reddit.com/r/SaaS/hot/.rss
+  - https://www.reddit.com/r/buildinpublic/hot/.rss
+  - https://www.reddit.com/r/GithubCopilot/hot/.rss
+  - https://www.reddit.com/r/ChatGPT/hot/.rss
+  - https://www.reddit.com/r/cursor/hot/.rss
+  - https://www.reddit.com/r/mcp/hot/.rss
+  - https://www.reddit.com/r/indiehackers/hot/.rss
+  - https://www.reddit.com/r/ExperiencedDevs/hot/.rss
+  - https://www.reddit.com/r/ClaudeCode/hot/.rss
+  - https://www.reddit.com/r/webdev/hot/.rss
 google_news_keywords:
 instapaper: false
 weather_latitude:
